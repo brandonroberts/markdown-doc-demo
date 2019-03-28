@@ -51,3 +51,5 @@ Testing 2
 #123
 
 ### Bottom
+
+![Image Text](./image.svg)
