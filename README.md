@@ -1,6 +1,9 @@
 # Code of Conduct Project Action Items
 
-## How to: Show conference how to abide by CoC by displaying on website
+## How to: Show conference how to abide by CoC by displaying on website 
+
+[Jump to bottom](./README.md#bottom)
+[Jump to another file](./another-file#some-place-in that file)
 
 - Create (TJ)
   - CoC should be visibly displayed on participants’ website (TJ)
@@ -35,3 +38,6 @@ export class Test {
 - [ ] Add heading
 - [ ] Make sure all links have text
 - [ ] Check invalid URLs
+
+
+### Bottom
