@@ -52,4 +52,6 @@ Testing 2
 
 ### Bottom
 
-![Image Text](./image.svg)
+![](./thisdot.svg)
+
+
