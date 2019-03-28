@@ -34,7 +34,7 @@ export class Test {
 
 ```
 .style {
-  background-color: blue;
+  background-color: red;
 }
 ```
 
